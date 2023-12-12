@@ -1,0 +1,6 @@
+numpy
+keras
+matplotlib
+scikit-learn
+Flask
+Pillow

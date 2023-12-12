@@ -1,0 +1,60 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-732-252
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction result: 7
+INFO:werkzeug:127.0.0.1 - - [08/Dec/2023 22:16:47] "POST /upload HTTP/1.1" 200 -
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction result: 4
+INFO:werkzeug:127.0.0.1 - - [08/Dec/2023 22:16:54] "POST /upload HTTP/1.1" 200 -
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction result: 7
+INFO:werkzeug:127.0.0.1 - - [08/Dec/2023 22:17:31] "POST /upload HTTP/1.1" 200 -
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction result: 3
+INFO:werkzeug:127.0.0.1 - - [08/Dec/2023 22:17:37] "POST /upload HTTP/1.1" 200 -
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction result: 3
+INFO:werkzeug:127.0.0.1 - - [08/Dec/2023 22:17:45] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-732-252
+INFO:werkzeug:127.0.0.1 - - [09/Dec/2023 22:07:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Dec/2023 22:07:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction result: 3
+INFO:werkzeug:127.0.0.1 - - [09/Dec/2023 22:07:45] "POST /upload HTTP/1.1" 200 -
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction result: 6
+INFO:werkzeug:127.0.0.1 - - [09/Dec/2023 22:08:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\image_classifier_mnist_dataset\\mnist-classification\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-732-252
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction result: 0
+INFO:werkzeug:127.0.0.1 - - [09/Dec/2023 22:14:04] "POST /upload HTTP/1.1" 200 -
+INFO:root:Prediction result: 0
+INFO:werkzeug:127.0.0.1 - - [09/Dec/2023 22:14:04] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-732-252
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2023 21:15:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2023 21:15:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Prediction requested for image: C:\Users\admin\image_classifier_mnist_dataset\mnist-classification\uploads\test.jpg
+INFO:root:Prediction result: 4
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2023 21:16:04] "POST /upload HTTP/1.1" 200 -
